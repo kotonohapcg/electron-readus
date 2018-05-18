@@ -1,0 +1,115 @@
+Date time: Fri May 18 2018 12:02:30 GMT+0900 (東京 (標準時))
+-----------------------
+execPath: C:\Program Files (x86)\Nodist\v-x64\7.2.1\node.exe
+-----------------------
+argv: C:\Program Files (x86)\Nodist\v-x64\7.2.1\node.exe, c:\Users\tukud\electron-readus\main.js
+-----------------------
+current directory: c:\Users\tukud\electron-readus
+-----------------------
+env:
+{ ALLUSERSPROFILE: 'C:\\ProgramData',
+  APPDATA: 'C:\\Users\\tukud\\AppData\\Roaming',
+  CommonProgramFiles: 'C:\\Program Files\\Common Files',
+  'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files',
+  CommonProgramW6432: 'C:\\Program Files\\Common Files',
+  COMPUTERNAME: 'LAPTOP-FTKOOFID',
+  ComSpec: 'C:\\Windows\\system32\\cmd.exe',
+  GOOGLE_API_KEY: 'AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q',
+  HOMEDRIVE: 'C:',
+  HOMEPATH: '\\Users\\tukud',
+  LOCALAPPDATA: 'C:\\Users\\tukud\\AppData\\Local',
+  LOGONSERVER: '\\\\LAPTOP-FTKOOFID',
+  NODE_PATH: 'C:\\Program Files (x86)\\Nodist\\bin\\node_modules;%NODE_PATH%',
+  NODIST_PREFIX: 'C:\\Program Files (x86)\\Nodist',
+  NODIST_X64: '1',
+  NUMBER_OF_PROCESSORS: '8',
+  OneDrive: 'C:\\Users\\tukud\\OneDrive',
+  OS: 'Windows_NT',
+  Path: 'C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\VAIO\\VAIO BIOS Data Transfer Utility\\;C:\\D\\dmd2\\windows\\bin;C:\\Program Files\\Java\\jdk1.8.0_172\\bin;C:\\pleiades\\eclipse;C:\\Program Files (x86)\\Nodist\\bin;C:\\Users\\tukud\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Program Files\\Microsoft VS Code Insiders\\bin',
+  PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
+  PROCESSOR_ARCHITECTURE: 'AMD64',
+  PROCESSOR_IDENTIFIER: 'Intel64 Family 6 Model 142 Stepping 10, GenuineIntel',
+  PROCESSOR_LEVEL: '6',
+  PROCESSOR_REVISION: '8e0a',
+  ProgramData: 'C:\\ProgramData',
+  ProgramFiles: 'C:\\Program Files',
+  'ProgramFiles(x86)': 'C:\\Program Files (x86)',
+  ProgramW6432: 'C:\\Program Files',
+  PSModulePath: 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules',
+  PUBLIC: 'C:\\Users\\Public',
+  SESSIONNAME: 'Console',
+  SystemDrive: 'C:',
+  SystemRoot: 'C:\\Windows',
+  TEMP: 'C:\\Users\\tukud\\AppData\\Local\\Temp',
+  TMP: 'C:\\Users\\tukud\\AppData\\Local\\Temp',
+  USERDOMAIN: 'LAPTOP-FTKOOFID',
+  USERDOMAIN_ROAMINGPROFILE: 'LAPTOP-FTKOOFID',
+  USERNAME: 'tukud',
+  USERPROFILE: 'C:\\Users\\tukud',
+  VSCODE_CWD: 'C:\\Program Files\\Microsoft VS Code Insiders',
+  VSCODE_IPC_HOOK: '\\\\.\\pipe\\3600985520a93c7e62e3d01ff7f48cce-1.24.0-insider-main-sock',
+  VSCODE_LOGS: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\logs\\20180518T115023',
+  VSCODE_NLS_CONFIG: '{"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"616021f5503f275ca9cb15fe6cc1236e.ja","_translationsConfigFile":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja\\\\tcf.json","_cacheRoot":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja","_resolvedLanguagePackCoreLocation":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja\\\\7d2e082bde84737dec923cdf5a399463b61fa939"}',
+  VSCODE_NODE_CACHED_DATA_DIR_6820: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\CachedData\\7d2e082bde84737dec923cdf5a399463b61fa939',
+  VSCODE_PID: '6820',
+  windir: 'C:\\Windows',
+  npm_config_prefix: 'C:\\Program Files (x86)\\Nodist/bin' }
+-----------------------
+pid: 14320
+-----------------------
+process title: C:\Program Files (x86)\Nodist\bin\node.exe
+-----------------------
+uptime (sec): 1.131
+-----------------------
+arch: x64
+-----------------------
+versions:
+{ http_parser: '2.7.0',
+  node: '7.2.1',
+  v8: '5.4.500.44',
+  uv: '1.10.1',
+  zlib: '1.2.8',
+  ares: '1.10.1-DEV',
+  modules: '51',
+  openssl: '1.0.2j',
+  icu: '58.1',
+  unicode: '9.0',
+  cldr: '30.0.2',
+  tz: '2016g' }
+-----------------------
+memory usage:
+{ rss: 31899648,
+  heapTotal: 12562432,
+  heapUsed: 6036872,
+  external: 15772 }
+-----------------------
+require.cache:
+C:\Program Files (x86)\Nodist\bin\node_modules\electron\index.js
+c:\Users\tukud\electron-readus\node_modules\crashreporter\lib\crashreporter.js
+c:\Users\tukud\electron-readus\node_modules\mkdirp\index.js
+-----------------------
+active handle:
+[ Timer {
+    '0': [Function: listOnTimeout],
+    _list: 
+     TimersList {
+       _idleNext: [Circular],
+       _idlePrev: [Circular],
+       _timer: [Circular],
+       _unrefed: false,
+       msecs: 50 } } ]
+-----------------------
+active request:
+[]
+-----------------------
+TypeError: require(...).start is not a function
+    at Object.<anonymous> (c:\Users\tukud\electron-readus\main.js:8:37)
+    at Module._compile (module.js:571:32)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Timeout.Module.runMain [as _onTimeout] (module.js:605:10)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
