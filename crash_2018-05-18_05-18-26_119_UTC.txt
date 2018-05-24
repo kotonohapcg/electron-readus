@@ -1,4 +1,4 @@
-Date time: Fri May 18 2018 11:56:37 GMT+0900 (東京 (標準時))
+Date time: Fri May 18 2018 14:18:26 GMT+0900 (東京 (標準時))
 -----------------------
 execPath: C:\Program Files (x86)\Nodist\v-x64\7.2.1\node.exe
 -----------------------
@@ -19,13 +19,13 @@ env:
   HOMEPATH: '\\Users\\tukud',
   LOCALAPPDATA: 'C:\\Users\\tukud\\AppData\\Local',
   LOGONSERVER: '\\\\LAPTOP-FTKOOFID',
-  NODE_PATH: 'C:\\Program Files (x86)\\Nodist\\bin\\node_modules;%NODE_PATH%',
+  NODE_PATH: 'C:\\Program Files (x86)\\Nodist\\bin\\node_modules;C:\\Program Files (x86)\\Nodist\\bin\\node_modules;C:\\Program Files (x86)\\Nodist\\bin\\node_modules;%NODE_PATH%',
   NODIST_PREFIX: 'C:\\Program Files (x86)\\Nodist',
   NODIST_X64: '1',
   NUMBER_OF_PROCESSORS: '8',
   OneDrive: 'C:\\Users\\tukud\\OneDrive',
   OS: 'Windows_NT',
-  Path: 'C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\VAIO\\VAIO BIOS Data Transfer Utility\\;C:\\D\\dmd2\\windows\\bin;C:\\Program Files\\Java\\jdk1.8.0_172\\bin;C:\\pleiades\\eclipse;C:\\Program Files (x86)\\Nodist\\bin;C:\\Users\\tukud\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Program Files\\Microsoft VS Code Insiders\\bin',
+  Path: 'C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\VAIO\\VAIO BIOS Data Transfer Utility\\;C:\\D\\dmd2\\windows\\bin;C:\\Program Files\\Java\\jdk1.8.0_172\\bin;C:\\pleiades\\eclipse;C:\\Program Files (x86)\\Nodist\\bin;%USERPROFILE%\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Program Files\\Microsoft VS Code Insiders\\bin;C:\\Users\\tukud\\AppData\\Local\\hyper\\app-2.0.0\\resources\\bin',
   PATHEXT: '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC',
   PROCESSOR_ARCHITECTURE: 'AMD64',
   PROCESSOR_IDENTIFIER: 'Intel64 Family 6 Model 142 Stepping 10, GenuineIntel',
@@ -48,18 +48,18 @@ env:
   USERPROFILE: 'C:\\Users\\tukud',
   VSCODE_CWD: 'C:\\Program Files\\Microsoft VS Code Insiders',
   VSCODE_IPC_HOOK: '\\\\.\\pipe\\3600985520a93c7e62e3d01ff7f48cce-1.24.0-insider-main-sock',
-  VSCODE_LOGS: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\logs\\20180518T115023',
-  VSCODE_NLS_CONFIG: '{"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"616021f5503f275ca9cb15fe6cc1236e.ja","_translationsConfigFile":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja\\\\tcf.json","_cacheRoot":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja","_resolvedLanguagePackCoreLocation":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\616021f5503f275ca9cb15fe6cc1236e.ja\\\\7d2e082bde84737dec923cdf5a399463b61fa939"}',
-  VSCODE_NODE_CACHED_DATA_DIR_6820: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\CachedData\\7d2e082bde84737dec923cdf5a399463b61fa939',
-  VSCODE_PID: '6820',
+  VSCODE_LOGS: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\logs\\20180518T141045',
+  VSCODE_NLS_CONFIG: '{"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"e3562cfb8365c47c711bc9f438101fa4.ja","_translationsConfigFile":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\e3562cfb8365c47c711bc9f438101fa4.ja\\\\tcf.json","_cacheRoot":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\e3562cfb8365c47c711bc9f438101fa4.ja","_resolvedLanguagePackCoreLocation":"C:\\\\Users\\\\tukud\\\\AppData\\\\Roaming\\\\Code - Insiders\\\\clp\\\\e3562cfb8365c47c711bc9f438101fa4.ja\\\\7d2e082bde84737dec923cdf5a399463b61fa939"}',
+  VSCODE_NODE_CACHED_DATA_DIR_9240: 'C:\\Users\\tukud\\AppData\\Roaming\\Code - Insiders\\CachedData\\7d2e082bde84737dec923cdf5a399463b61fa939',
+  VSCODE_PID: '9240',
   windir: 'C:\\Windows',
   npm_config_prefix: 'C:\\Program Files (x86)\\Nodist/bin' }
 -----------------------
-pid: 4880
+pid: 1532
 -----------------------
 process title: C:\Program Files (x86)\Nodist\bin\node.exe
 -----------------------
-uptime (sec): 7.813
+uptime (sec): 0.641
 -----------------------
 arch: x64
 -----------------------
@@ -78,9 +78,9 @@ versions:
   tz: '2016g' }
 -----------------------
 memory usage:
-{ rss: 32833536,
+{ rss: 31019008,
   heapTotal: 12562432,
-  heapUsed: 7141840,
+  heapUsed: 5359176,
   external: 15772 }
 -----------------------
 require.cache:
